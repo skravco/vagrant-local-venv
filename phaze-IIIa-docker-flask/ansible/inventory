@@ -1,0 +1,6 @@
+[master]
+master
+
+[nodes]
+test-node
+dev-node
